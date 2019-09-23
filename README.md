@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Marcusbernhard/Build%20ASP.NET%204%20app%20with/_apis/build/status/Nezzoul.devops-project-samples?branchName=master)](https://dev.azure.com/Marcusbernhard/Build%20ASP.NET%204%20app%20with/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
